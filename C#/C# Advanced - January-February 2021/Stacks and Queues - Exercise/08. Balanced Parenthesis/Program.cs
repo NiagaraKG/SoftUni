@@ -5,23 +5,28 @@ namespace _08._Balanced_Parenthesis
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
-            char[] input = Console.ReadLine().ToCharArray();
-            Queue<char> brackets = new Queue<char>(input);
-            bool match = true;
-            while (brackets.Count > 2)
+            char[] input = Console.ReadLine().ToCharArray().ToArray();
+            Stack<char> brackets = new Stack<char>();
+            for (int i = 0; i < input.Length; i++)
             {
-                int half = brackets.Count / 2 - 1;
-                for (int i = 0; i < half; i++) { brackets.Enqueue(brackets.Dequeue()); }
-                char first = brackets.Dequeue(), second = brackets.Dequeue();
-                if(first == '(' && second == ')') { match = true; }
-                else if(first == '[' && second == ']') { match = true; }
-                else if(first == '{' && second == '}') { match = true; }
-                else { Console.WriteLine("NO"); return; }
-                for (int i = 0; i < half; i++) { brackets.Enqueue(brackets.Dequeue()); }
+                if (input[i] == '(' || input[i] == '[' || input[i] == '{') { brackets.Push(input[i]); }
+                else
+                {
+                    if (brackets.Any())
+                    {
+                        char opening = brackets.Pop();
+                        if (opening == '(' && input[i] == ')') { }
+                        else if (opening == '[' && input[i] == ']') { }
+                        else if (opening == '{' && input[i] == '}') { }
+                        else { Console.WriteLine("NO"); return; }
+                    }
+                    else { Console.WriteLine("NO"); return; }
+                }
             }
-            Console.WriteLine("YES"); 
+            if (brackets.Any()) { Console.WriteLine("NO"); }
+            else { Console.WriteLine("YES"); }
         }
     }
 }
