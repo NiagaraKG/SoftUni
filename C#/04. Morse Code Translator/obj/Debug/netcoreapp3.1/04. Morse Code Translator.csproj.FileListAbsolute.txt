@@ -1,0 +1,13 @@
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.exe
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.deps.json
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.json
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.dev.json
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csprojAssemblyReference.cache
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfo.cs
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+D:\Programming\C#\C# Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.genruntimeconfig.cache
