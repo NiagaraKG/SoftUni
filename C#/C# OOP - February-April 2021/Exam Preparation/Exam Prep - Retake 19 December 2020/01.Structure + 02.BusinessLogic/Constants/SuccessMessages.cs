@@ -1,4 +1,4 @@
-﻿namespace WarCroft.Constants
+namespace WarCroft.Constants
 {
     public class SuccessMessages
     {
