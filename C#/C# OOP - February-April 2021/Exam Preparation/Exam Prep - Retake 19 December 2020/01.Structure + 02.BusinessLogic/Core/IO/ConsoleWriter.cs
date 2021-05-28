@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using WarCroft.Core.IO.Contracts;
 
 namespace WarCroft.Core.IO
