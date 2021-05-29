@@ -1,4 +1,4 @@
-﻿namespace WarCroft.Core.IO.Contracts
+namespace WarCroft.Core.IO.Contracts
 {
 	public interface IReader
 	{
