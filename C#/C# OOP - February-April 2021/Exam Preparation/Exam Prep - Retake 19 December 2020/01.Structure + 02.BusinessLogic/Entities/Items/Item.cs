@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using WarCroft.Entities.Characters.Contracts;
 using WarCroft.Constants;
