@@ -1,4 +1,4 @@
-﻿namespace WarCroft.Entities.Characters.Contracts
+namespace WarCroft.Entities.Characters.Contracts
 {
 	public interface IHealer
 	{
