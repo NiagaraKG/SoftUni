@@ -1,5 +1,4 @@
 using System;
-
 namespace FestivalManager.Tests
 {
     using NUnit.Framework;
