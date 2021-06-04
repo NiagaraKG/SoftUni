@@ -7,7 +7,7 @@ namespace FestivalManager.Tests
     [TestFixture]
     public class StageTests
     {
-        //_____________Song_______________
+        //_____________Song_____________
 
         [Test]
         public void Song_Valid()
