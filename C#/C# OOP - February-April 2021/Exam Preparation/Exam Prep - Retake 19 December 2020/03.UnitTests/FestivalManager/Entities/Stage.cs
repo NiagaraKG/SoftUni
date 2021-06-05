@@ -1,4 +1,4 @@
-﻿namespace FestivalManager.Entities
+namespace FestivalManager.Entities
 {
     using System;
     using System.Collections.Generic;
