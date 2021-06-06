@@ -1,4 +1,4 @@
-﻿namespace Bakery
+namespace Bakery
 {
     using Bakery.Core;
 
