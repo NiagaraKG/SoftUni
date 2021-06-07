@@ -1,4 +1,4 @@
-﻿namespace Bakery.Core.Contracts
+namespace Bakery.Core.Contracts
 {
     public interface IEngine
     {
