@@ -1,4 +1,4 @@
-﻿namespace Bakery.Core
+namespace Bakery.Core
 {
     using Bakery.Core.Contracts;
     using Bakery.IO;
