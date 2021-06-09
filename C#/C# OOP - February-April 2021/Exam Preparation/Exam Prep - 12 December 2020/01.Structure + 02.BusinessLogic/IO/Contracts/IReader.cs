@@ -1,4 +1,4 @@
-﻿namespace Bakery.IO.Contracts
+namespace Bakery.IO.Contracts
 {
     public interface IReader
     {
