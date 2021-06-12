@@ -1,4 +1,4 @@
-﻿namespace Bakery.Utilities.Enums
+namespace Bakery.Utilities.Enums
 {
     public enum BakedFoodType
     {
