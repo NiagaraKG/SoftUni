@@ -1,4 +1,4 @@
-﻿namespace Bakery.Models.BakedFoods.Contracts
+namespace Bakery.Models.BakedFoods.Contracts
 {
     public interface IBakedFood
     {
