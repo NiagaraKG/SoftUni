@@ -1,4 +1,4 @@
-﻿namespace Bakery.Models.Drinks.Contracts
+namespace Bakery.Models.Drinks.Contracts
 {
     public interface IDrink
     {
