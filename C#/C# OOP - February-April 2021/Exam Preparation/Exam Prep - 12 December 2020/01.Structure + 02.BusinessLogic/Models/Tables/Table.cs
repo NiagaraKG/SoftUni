@@ -1,4 +1,4 @@
-﻿using Bakery.Models.BakedFoods.Contracts;
+using Bakery.Models.BakedFoods.Contracts;
 using Bakery.Models.Drinks.Contracts;
 using Bakery.Models.Tables.Contracts;
 using Bakery.Utilities.Messages;
