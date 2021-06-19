@@ -1,4 +1,4 @@
-﻿namespace EasterRaces.Utilities.Messages
+namespace EasterRaces.Utilities.Messages
 {
     public static class OutputMessages
     {
