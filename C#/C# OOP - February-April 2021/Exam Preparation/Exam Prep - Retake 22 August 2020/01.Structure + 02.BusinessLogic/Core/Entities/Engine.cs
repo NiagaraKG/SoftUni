@@ -1,4 +1,4 @@
-﻿using EasterRaces.Core.Contracts;
+using EasterRaces.Core.Contracts;
 using System;
 using EasterRaces.IO.Contracts;
 
