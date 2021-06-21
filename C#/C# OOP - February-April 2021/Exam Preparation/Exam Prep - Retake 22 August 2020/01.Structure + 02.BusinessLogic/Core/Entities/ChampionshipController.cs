@@ -1,4 +1,4 @@
-﻿using EasterRaces.Core.Contracts;
+using EasterRaces.Core.Contracts;
 using EasterRaces.Models.Cars.Contracts;
 using EasterRaces.Models.Cars.Entities;
 using EasterRaces.Models.Drivers.Entities;
