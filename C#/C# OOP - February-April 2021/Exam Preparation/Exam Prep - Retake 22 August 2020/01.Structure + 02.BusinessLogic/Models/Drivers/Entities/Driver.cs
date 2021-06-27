@@ -1,4 +1,4 @@
-﻿using EasterRaces.Models.Cars.Contracts;
+using EasterRaces.Models.Cars.Contracts;
 using EasterRaces.Models.Drivers.Contracts;
 using System;
 using System.Collections.Generic;
