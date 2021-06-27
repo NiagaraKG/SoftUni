@@ -1,4 +1,4 @@
-﻿using EasterRaces.Models.Cars.Contracts;
+using EasterRaces.Models.Cars.Contracts;
 
 namespace EasterRaces.Models.Drivers.Contracts
 {
