@@ -1,4 +1,4 @@
-﻿namespace TheRace
+namespace TheRace
 {
     public class UnitCar
     {
