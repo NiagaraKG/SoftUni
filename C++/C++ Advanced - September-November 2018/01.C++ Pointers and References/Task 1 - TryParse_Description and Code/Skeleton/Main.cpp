@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-
 #include "TryParse.h"
 
 int main() {
