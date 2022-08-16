@@ -2,7 +2,6 @@
 #include <string>
 
 #include "TryParse.h"
-
 int main() {
 	std::string aString, bString;
 	std::cin >> aString >> bString;
