@@ -1,8 +1,7 @@
 #ifndef COMPANY_H
 #define COMPANY_H
 
-#include <string>
-#include <ostream>
+
 #include <istream>
 #include <vector>
 #include <utility>
