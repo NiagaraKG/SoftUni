@@ -1,0 +1,11 @@
+unknown: Cancri-1 {2.44582e+30,1.25922e+09}
+unknown: Cancri-9 (Steel World) {5.972e+24,6137000}
+star: Solar-1 (Sun) {1.98847e+30,6.957e+08}
+rocky planet: Solar-2 (Mercury) {3.302e+23, 2.4397e+06}
+rocky planet: Solar-3 (Venus) {4.86732e+24,6.052e+06}
+rocky planet: Solar-4 (Earth) {5.972e+24,6.371e+06}
+rocky planet: Solar-5 (Mars) {6.39e+23,3.39e+06}
+gas giant: Solar-6 (Jupiter) {1.898e+27,6.9911e+07}
+gas giant: Solar-7 (Saturn) {5.683e+26,6.0268e+07}
+gas giant: Solar-8 (Uranus) {8.681e+25,2.5362e+07}
+gas giant: Solar-9 (Neptune) {1.024e+26,2.4622e+07}
