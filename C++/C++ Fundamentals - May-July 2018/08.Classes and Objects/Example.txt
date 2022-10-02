@@ -1,0 +1,21 @@
+Example changing type and system:
+insert
+rocky planet: New-9 (Steel World) {5.972e+24,6137000}
+
+
+
+Example inserting object:
+insert
+rocky planet: Proxima Centauri-1 (Proxima B) {2.44582e+29,9.80937e+07}
+
+
+
+Example searching system:
+search
+Solar
+
+
+
+Example searching object:
+search
+Earth 4
