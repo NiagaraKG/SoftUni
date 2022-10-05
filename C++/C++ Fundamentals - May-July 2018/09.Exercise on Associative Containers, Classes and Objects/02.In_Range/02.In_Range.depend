@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1530881063 source:d:\programming\c++\02.c++ fundamentals\02.in_range\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<set>
+
