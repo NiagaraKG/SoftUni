@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1530891438 source:d:\programming\c++\02.c++ fundamentals\03.matches\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<set>
+
