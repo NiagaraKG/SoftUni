@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530910316 source:d:\programming\c++\02.c++ fundamentals\04.letters\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<map>
+	<set>
+	<cctype>
+	<vector>
+	<iterator>
+
