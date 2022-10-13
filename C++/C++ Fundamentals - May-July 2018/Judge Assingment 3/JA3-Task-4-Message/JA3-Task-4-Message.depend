@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1531241645 source:d:\programming\c++\02.c++ fundamentals\ja3-task-4-message\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+	<set>
+	<vector>
+
