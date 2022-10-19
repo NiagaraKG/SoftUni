@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1531481868 source:d:\programming\c++\02.c++ fundamentals\10.exam preparation\task-3-entities\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<sstream>
+
